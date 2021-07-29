@@ -1,12 +1,12 @@
 {
   "pages": [
-    "pages/login/login",
-    "pages/otherTest/otherTest",
     "pages/index/index",
+    "pages/otherTest/otherTest",
     "pages/recommendSong/recommendSong",
     "pages/songDetail/songDetail",
     "pages/video/video",
     "pages/personal/personal",
+    "pages/login/login",
     "pages/search/search"
   ],
   "tabBar": {
